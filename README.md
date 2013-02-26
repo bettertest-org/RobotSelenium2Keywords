@@ -6,5 +6,10 @@ Css keywords:
 - Check Background Color
 - Value Of Css Property
 
+Text keywords:
+- Compare               - Compares values. By default checks if values are equal and throws exception when they are not.
+- Get Inner Text        - Retrieves text value from an element found by locator
+- Expected Text         - Checks if element found by locator contains expected text.
+
 
 more: bettertest.org

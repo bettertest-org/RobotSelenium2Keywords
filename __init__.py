@@ -3,7 +3,7 @@ from keywords import *
 
 
 class Selenium2LibraryExtensions(
-        _CssKeywords
+        _CssKeywords, _TextKeywords
 
 ):
 

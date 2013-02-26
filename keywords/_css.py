@@ -3,7 +3,7 @@ from robot.libraries.BuiltIn import BuiltIn
 from selenium.webdriver.support.color import Color
 
 
-class CssKeywords():
+class _CssKeywords():
 
     @property
     def s2l(self):
